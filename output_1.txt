@@ -1,0 +1,3434 @@
+
+Analyzing module: ./flask-main\docs\conf.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='github_link',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='setup',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\celery\make_celery.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\celery\src\task_app\tasks.py
+Classes in module: 0
+
+Functions in module: 3
+  - Name(
+    value='add',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='block',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='process',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\celery\src\task_app\views.py
+Classes in module: 0
+
+Functions in module: 4
+  - Name(
+    value='result',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='add',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='block',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='process',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\celery\src\task_app\__init__.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='create_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='celery_init_app',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\javascript\js_example\views.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='index',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='add',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\javascript\js_example\__init__.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\javascript\tests\conftest.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='fixture_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='client',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\javascript\tests\test_js_example.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='test_index',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\tutorial\flaskr\auth.py
+Classes in module: 0
+
+Functions in module: 5
+  - Name(
+    value='login_required',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='load_logged_in_user',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='register',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='login',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='logout',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\tutorial\flaskr\blog.py
+Classes in module: 0
+
+Functions in module: 5
+  - Name(
+    value='index',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='get_post',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='create',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='update',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='delete',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\tutorial\flaskr\db.py
+Classes in module: 0
+
+Functions in module: 5
+  - Name(
+    value='get_db',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='close_db',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='init_db',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='init_db_command',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='init_app',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\tutorial\flaskr\__init__.py
+Classes in module: 0
+
+Functions in module: 1
+  - Name(
+    value='create_app',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\tutorial\tests\conftest.py
+Classes in module: 1
+  - Name(
+    value='AuthActions',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 4
+  - Name(
+    value='app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='client',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='runner',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='auth',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\tutorial\tests\test_auth.py
+Classes in module: 0
+
+Functions in module: 5
+  - Name(
+    value='test_register',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_register_validate_input',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_login',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_login_validate_input',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_logout',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\tutorial\tests\test_blog.py
+Classes in module: 0
+
+Functions in module: 8
+  - Name(
+    value='test_index',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_login_required',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_author_required',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_exists_required',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_create',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_update',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_create_update_validate',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_delete',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\tutorial\tests\test_db.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='test_get_close_db',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_init_db_command',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\examples\tutorial\tests\test_factory.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='test_config',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_hello',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\app.py
+Classes in module: 1
+  - Name(
+    value='Flask',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 1
+  - Name(
+    value='_make_timedelta',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\blueprints.py
+Classes in module: 1
+  - Name(
+    value='Blueprint',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\cli.py
+Classes in module: 6
+  - Name(
+    value='NoAppException',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='ScriptInfo',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='AppGroup',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='FlaskGroup',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='CertParamType',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='SeparatedPathType',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 20
+  - Name(
+    value='find_best_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_called_with_wrong_args',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='find_app_by_string',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='prepare_import',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='locate_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='locate_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='locate_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='get_version',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='with_appcontext',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_set_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_set_debug',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_env_file_callback',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_path_is_ancestor',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='load_dotenv',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='show_server_banner',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_validate_key',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='run_command',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='shell_command',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='routes_command',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='main',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\config.py
+Classes in module: 2
+  - Name(
+    value='ConfigAttribute',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='Config',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\ctx.py
+Classes in module: 3
+  - Name(
+    value='_AppCtxGlobals',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='AppContext',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='RequestContext',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 4
+  - Name(
+    value='after_this_request',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='copy_current_request_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='has_request_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='has_app_context',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\debughelpers.py
+Classes in module: 3
+  - Name(
+    value='UnexpectedUnicodeError',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='DebugFilesKeyError',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='FormDataRoutingRedirect',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 3
+  - Name(
+    value='attach_enctype_error_multidict',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_dump_loader_info',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='explain_template_loading_attempts',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\globals.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\helpers.py
+Classes in module: 0
+
+Functions in module: 15
+  - Name(
+    value='get_debug_flag',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='get_load_dotenv',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='stream_with_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='make_response',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='url_for',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='redirect',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='abort',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='get_template_attribute',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='flash',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='get_flashed_messages',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_prepare_send_file_kwargs',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='send_file',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='send_from_directory',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='get_root_path',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_split_blueprint_path',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\logging.py
+Classes in module: 0
+
+Functions in module: 3
+  - Name(
+    value='wsgi_errors_stream',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='has_level_handler',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='create_logger',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\sessions.py
+Classes in module: 5
+  - Name(
+    value='SessionMixin',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='SecureCookieSession',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='NullSession',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='SessionInterface',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='SecureCookieSessionInterface',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\signals.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\templating.py
+Classes in module: 2
+  - Name(
+    value='Environment',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='DispatchingJinjaLoader',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 7
+  - Name(
+    value='_default_template_ctx_processor',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_render',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='render_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='render_template_string',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_stream',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='stream_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='stream_template_string',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\testing.py
+Classes in module: 3
+  - Name(
+    value='EnvironBuilder',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='FlaskClient',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='FlaskCliRunner',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 1
+  - Name(
+    value='_get_werkzeug_version',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\typing.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\views.py
+Classes in module: 2
+  - Name(
+    value='View',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='MethodView',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\wrappers.py
+Classes in module: 2
+  - Name(
+    value='Request',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='Response',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\__init__.py
+Classes in module: 0
+
+Functions in module: 1
+  - Name(
+    value='__getattr__',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\__main__.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\json\provider.py
+Classes in module: 2
+  - Name(
+    value='JSONProvider',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='DefaultJSONProvider',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 1
+  - Name(
+    value='_default',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\json\tag.py
+Classes in module: 10
+  - Name(
+    value='JSONTag',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TagDict',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='PassDict',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TagTuple',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='PassList',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TagBytes',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TagMarkup',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TagUUID',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TagDateTime',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TaggedJSONSerializer',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\json\__init__.py
+Classes in module: 0
+
+Functions in module: 5
+  - Name(
+    value='dumps',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='dump',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='loads',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='load',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='jsonify',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\sansio\app.py
+Classes in module: 1
+  - Name(
+    value='App',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 1
+  - Name(
+    value='_make_timedelta',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\sansio\blueprints.py
+Classes in module: 2
+  - Name(
+    value='BlueprintSetupState',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='Blueprint',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\src\flask\sansio\scaffold.py
+Classes in module: 1
+  - Name(
+    value='Scaffold',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 5
+  - Name(
+    value='setupmethod',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_endpoint_from_view_func',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_path_is_relative_to',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_find_package_path',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='find_package',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\conftest.py
+Classes in module: 0
+
+Functions in module: 13
+  - Name(
+    value='_standard_os_environ',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_reset_os_environ',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='app_ctx',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='req_ctx',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='client',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_apps',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='leak_detector',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='limit_loader',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='modules_tmp_path',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='modules_tmp_path_prefix',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='site_packages',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='purge_module',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_appctx.py
+Classes in module: 0
+
+Functions in module: 14
+  - Name(
+    value='test_basic_url_generation',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_url_generation_requires_server_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_url_generation_without_context_fails',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_request_context_means_app_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_context_provides_current_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_tearing_down',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_tearing_down_with_previous_exception',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_tearing_down_with_handled_exception_by_except_block',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_tearing_down_with_handled_exception_by_app_handler',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_tearing_down_with_unhandled_exception',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_ctx_globals_methods',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_custom_app_ctx_globals_class',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_context_refcounts',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_clean_pop',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_async.py
+Classes in module: 4
+  - Name(
+    value='AppError',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='BlueprintError',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='AsyncView',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='AsyncMethodView',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 4
+  - Name(
+    value='_async_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_async_route',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_async_error_handler',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_async_before_after_request',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_basic.py
+Classes in module: 0
+
+Functions in module: 87
+  - Name(
+    value='test_options_work',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_options_on_multiple_rules',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_method_route',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_method_route_no_methods',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_provide_automatic_options_attr',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_provide_automatic_options_kwarg',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_request_dispatching',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_disallow_string_for_allowed_methods',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_url_mapping',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_werkzeug_routing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_endpoint_decorator',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_path',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_using_application_root',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_using_session_settings',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_using_samesite_attribute',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_missing_session',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_expiration',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_stored_last',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_special_types',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_cookie_setting',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_vary_cookie',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_refresh_vary',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_flashes',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_extended_flashing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_request_processing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_request_preprocessing_early_return',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_after_request_processing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_teardown_request_handler',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_teardown_request_handler_debug_mode',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_teardown_request_handler_error',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_before_after_request_order',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_error_handling',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_error_handling_processing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_baseexception_error_handling',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_before_request_and_routing_errors',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_user_error_handling',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_http_error_subclass_handling',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_errorhandler_precedence',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_trap_bad_request_key_error',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_trapping_of_all_http_exceptions',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_error_handler_after_processor_error',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_enctype_debug_helper',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_response_types',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_response_type_errors',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_make_response',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_make_response_with_response_instance',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_jsonify_no_prettyprint',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_jsonify_mimetype',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_dump_dataclass',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_jsonify_args_and_kwargs_check',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_url_generation',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_build_error_handler',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_build_error_handler_reraise',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_url_for_passes_special_values_to_build_error_handler',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_static_files',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_static_url_path',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_static_url_path_with_ending_slash',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_static_url_empty_path',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_static_url_empty_path_default',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_static_folder_with_pathlib_path',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_static_folder_with_ending_slash',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_static_route_with_host_matching',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_request_locals',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_server_name_subdomain',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_exception_propagation',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_werkzeug_passthrough_errors',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_max_content_length',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_url_processors',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_inject_blueprint_url_defaults',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_nonascii_pathinfo',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_no_setup_after_first_request',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_routing_redirect_debugging',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_route_decorator_custom_endpoint',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_get_method_on_g',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_g_iteration_protocol',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_subdomain_basic_support',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_subdomain_matching',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_subdomain_matching_with_ports',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_subdomain_matching_other_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_multi_route_rules',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_multi_route_class_views',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_run_defaults',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_run_server_port',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_run_from_config',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_max_cookie_size',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_freed_on_zero_refcount',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_blueprints.py
+Classes in module: 0
+
+Functions in module: 47
+  - Name(
+    value='test_blueprint_specific_error_handling',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_blueprint_specific_user_error_handling',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_blueprint_app_error_handling',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_blueprint_prefix_slash',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_blueprint_url_defaults',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_blueprint_url_processors',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_templates_and_static',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_default_static_max_age',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_templates_list',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_dotted_name_not_allowed',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_empty_name_not_allowed',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_dotted_names_from_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_empty_url_defaults',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_route_decorator_custom_endpoint',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_route_decorator_custom_endpoint_with_dots',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_endpoint_decorator',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_filter',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_filter',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_filter_with_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_filter_with_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_filter_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_filter_after_route_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_filter_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_filter_with_name_and_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_filter_with_name_and_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_test',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_test',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_test_with_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_test_with_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_test_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_test_after_route_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_test_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_test_with_name_and_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_test_with_name_and_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_context_processing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_global',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_request_processing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_request_processing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_url_processors',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_nested_blueprint',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_nested_callback_order',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_nesting_url_prefixes',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_nesting_subdomains',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_child_and_parent_subdomain',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_unique_blueprint_names',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_self_registration',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_blueprint_renaming',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_cli.py
+Classes in module: 1
+  - Name(
+    value='TestRoutes',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 29
+  - Name(
+    value='runner',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_cli_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_find_best_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_prepare_import',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_locate_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_locate_app_raises',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_locate_app_suppress_raise',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_get_version',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_scriptinfo',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_cli_has_app_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_with_appcontext',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_appgroup_app_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_flaskgroup_app_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_flaskgroup_debug',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_flaskgroup_nested',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_no_command_echo_loading_error',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_help_echo_loading_error',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_help_echo_exception',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='dotenv_not_available',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_load_dotenv',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_dotenv_path',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_dotenv_optional',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_disable_dotenv_from_env',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_run_cert_path',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_run_cert_adhoc',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_run_cert_import',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_run_cert_no_ssl',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_cli_blueprints',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_cli_empty',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_config.py
+Classes in module: 0
+
+Functions in module: 18
+  - Name(
+    value='common_object_test',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_from_pyfile',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_from_object',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_from_file_json',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_from_file_toml',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_from_prefixed_env',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_from_prefixed_env_custom_prefix',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_from_prefixed_env_nested',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_from_mapping',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_from_class',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_from_envvar',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_from_envvar_missing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_missing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_config_missing_file',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_custom_config_class',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_lifetime',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_get_namespace',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_from_pyfile_weird_encoding',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_converters.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='test_custom_converters',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_context_available',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_helpers.py
+Classes in module: 7
+  - Name(
+    value='FakePath',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='PyBytesIO',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TestSendfile',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TestUrlFor',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TestNoImports',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TestStreaming',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='TestHelpers',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 5
+  - Name(
+    value='test_redirect_no_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_redirect_with_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_abort_no_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_app_aborter_class',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_abort_with_app',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_instance_config.py
+Classes in module: 0
+
+Functions in module: 7
+  - Name(
+    value='test_explicit_instance_paths',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_uninstalled_module_paths',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_uninstalled_package_paths',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_uninstalled_namespace_paths',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_installed_module_paths',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_installed_package_paths',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_prefix_package_paths',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_json.py
+Classes in module: 1
+  - Name(
+    value='FixedOffset',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 18
+  - Name(
+    value='test_bad_request_debug_message',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_bad_requests',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_custom_mimetypes',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_as_unicode',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_dump_to_file',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_jsonify_basic_types',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_jsonify_dicts',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_jsonify_arrays',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_jsonify_datetime',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_jsonify_aware_datetimes',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_jsonify_uuid_types',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_decimal',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_attr',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_tojson_filter',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_customization',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='_has_encoding',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_key_sorting',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_html_method',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_json_tag.py
+Classes in module: 0
+
+Functions in module: 5
+  - Name(
+    value='test_dump_load_unchanged',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_duplicate_tag',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_custom_tag',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_tag_interface',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_tag_order',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_logging.py
+Classes in module: 0
+
+Functions in module: 7
+  - Name(
+    value='reset_logging',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_logger',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_logger_debug',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_existing_handler',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_wsgi_errors_stream',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_has_level_handler',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_log_view_exception',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_regression.py
+Classes in module: 0
+
+Functions in module: 1
+  - Name(
+    value='test_aborting',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_reqctx.py
+Classes in module: 1
+  - Name(
+    value='TestGreenletContextCopying',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 12
+  - Name(
+    value='test_teardown_on_pop',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_teardown_with_previous_exception',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_teardown_with_handled_exception',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_proper_test_request_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_context_binding',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_context_test',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_manual_context_binding',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_error_pops_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_dynamic_cookie_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_bad_environ_raises_bad_request',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_environ_for_valid_idna_completes',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_normal_environ_completes',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_session_interface.py
+Classes in module: 0
+
+Functions in module: 1
+  - Name(
+    value='test_open_session_with_endpoint',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_signals.py
+Classes in module: 0
+
+Functions in module: 7
+  - Name(
+    value='test_template_rendered',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_before_render_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_request_signals',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_request_exception_signal',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_appcontext_signals',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_flash_signal',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_appcontext_tearing_down_signal',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_subclassing.py
+Classes in module: 0
+
+Functions in module: 1
+  - Name(
+    value='test_suppressed_exception_logging',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_templating.py
+Classes in module: 0
+
+Functions in module: 32
+  - Name(
+    value='test_context_processing',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_original_win',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_simple_stream',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_request_less_rendering',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_standard_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_escaping',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_no_escaping',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_escaping_without_template_filename',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_macros',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_filter',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_filter',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_filter_with_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_filter_with_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_filter_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_filter_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_filter_with_name_and_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_filter_with_name_and_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_test',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_test',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_test_with_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_test_with_name',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_test_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_test_with_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_test_with_name_and_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_test_with_name_and_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_add_template_global',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_custom_template_loader',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_iterable_loader',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_templates_auto_reload',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_templates_auto_reload_debug_run',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_template_loader_debugging',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_custom_jinja_env',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_testing.py
+Classes in module: 0
+
+Functions in module: 25
+  - Name(
+    value='test_environ_defaults_from_config',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_environ_defaults',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_environ_base_default',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_environ_base_modified',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_client_open_environ',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_specify_url_scheme',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_path_is_url',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_environbuilder_json_dumps',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_blueprint_with_subdomain',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_redirect_keep_session',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_transactions',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_transactions_no_null_sessions',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_transactions_keep_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_session_transaction_needs_cookies',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_test_client_context_binding',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_reuse_client',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_full_url_request',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_json_request_and_response',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_client_json_no_app_context',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_subdomain',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_nosubdomain',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_cli_runner_class',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_cli_invoke',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_cli_custom_obj',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_client_pop_all_preserved',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_user_error_handler.py
+Classes in module: 1
+  - Name(
+    value='TestGenericHandlers',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 5
+  - Name(
+    value='test_error_handler_no_match',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_error_handler_subclass',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_error_handler_http_subclass',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_error_handler_blueprint',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_default_error_handler',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_views.py
+Classes in module: 0
+
+Functions in module: 14
+  - Name(
+    value='common_test',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_basic_view',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_method_based_view',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_view_patching',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_view_inheritance',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_view_decorators',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_view_provide_automatic_options_attr',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_implicit_head',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_explicit_head',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_endpoint_override',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_methods_var_inheritance',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_multiple_inheritance',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_remove_method_from_parent',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='test_init_once',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\blueprintapp\__init__.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\blueprintapp\apps\__init__.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\blueprintapp\apps\admin\__init__.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='index',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='index2',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\blueprintapp\apps\frontend\__init__.py
+Classes in module: 0
+
+Functions in module: 2
+  - Name(
+    value='index',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='missing_template',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\cliapp\app.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\cliapp\factory.py
+Classes in module: 0
+
+Functions in module: 3
+  - Name(
+    value='create_app',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='create_app2',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='no_app',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\cliapp\importerrorapp.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\cliapp\multiapp.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\cliapp\__init__.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\cliapp\inner1\__init__.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\cliapp\inner1\inner2\flask.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\cliapp\inner1\inner2\__init__.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\helloworld\hello.py
+Classes in module: 0
+
+Functions in module: 1
+  - Name(
+    value='hello',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\helloworld\wsgi.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\test_apps\subdomaintestmodule\__init__.py
+Classes in module: 0
+
+Functions in module: 0
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\typing\typing_app_decorators.py
+Classes in module: 0
+
+Functions in module: 6
+  - Name(
+    value='after_sync',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='after_async',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='before_sync',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='before_async',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='teardown_sync',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='teardown_async',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\typing\typing_error_handler.py
+Classes in module: 0
+
+Functions in module: 4
+  - Name(
+    value='handle_400',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='handle_custom',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='handle_accept_base',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='handle_multiple',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
+
+Analyzing module: ./flask-main\tests\typing\typing_route.py
+Classes in module: 2
+  - Name(
+    value='StatusJSON',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='RenderTemplateView',
+    lpar=[],
+    rpar=[],
+)
+
+Functions in module: 15
+  - Name(
+    value='hello_str',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='hello_bytes',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='hello_json',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='hello_json_dict',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='hello_json_list',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='typed_dict',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='hello_generator',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='hello_generator_expression',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='hello_iterator',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='tuple_status',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='tuple_status_enum',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='tuple_headers',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='return_template',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='return_template_stream',
+    lpar=[],
+    rpar=[],
+)
+  - Name(
+    value='async_route',
+    lpar=[],
+    rpar=[],
+)
+
+Imports in module: 0
